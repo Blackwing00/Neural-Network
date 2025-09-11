@@ -1,6 +1,1 @@
-# Neural-Network 
- 
- 
-  
-       
-  
+# Neural-Network
